@@ -1,0 +1,34 @@
+{
+  "count": [
+    12
+  ],
+  "post": [
+    {
+      "name": "MuskanIss",
+      "age": "2",
+      "address": "vgbnjm",
+      "department": "marketing",
+      "salary": "50000",
+      "photo": "https://i.imgur.com/StWB1Vw.jpg",
+      "id": 3
+    },
+    {
+      "name": "Muskan",
+      "age": "23",
+      "address": "Gandhidham",
+      "department": "marketing",
+      "salary": "45000",
+      "photo": "https://i.imgur.com/8Y0hy48.jpg",
+      "id": 7
+    },
+    {
+      "name": "MuskanIss",
+      "age": "22",
+      "address": "Ahmedabad",
+      "department": "HR",
+      "salary": "30000",
+      "photo": "https://i.imgur.com/fkF7fhM.jpg",
+      "id": 13
+    }
+  ]
+}
